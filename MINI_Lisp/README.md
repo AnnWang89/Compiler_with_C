@@ -42,8 +42,10 @@
 
 
         * 下方為function的ope概念參考圖，紅色的為ope。
+
           ![](https://i.imgur.com/BpUXK8Y.png)
         * 下方為if的ope概念參考圖，紅色的為ope。 
+
           ![](https://i.imgur.com/6p3v6af.png)
 
 3. 以下針對所寫的function進行說明:
@@ -63,6 +65,7 @@
         以 (+ 1 (+ 2 3 4) (* 4 5 6) (/ 8 3) (mod 10 3))為例，
         如果想要知道他的結果是多少可以呼叫treetriverse(0,26,0,1)。
         如果只想知道(+ 2 3 4)的結果，可以呼叫treetriverse(1,7,0,1)。
+
         ![](https://i.imgur.com/0O2NIJY.png)
 
 4. 目前進度完成Basic 1-7 及 Bonus 2。
